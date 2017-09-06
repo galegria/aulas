@@ -1,2 +1,7 @@
-%U
+* SUMMARY %^{sumário}
+
 %?
+
+:LOGBOOK:
+%^{log note} %U
+:END:
