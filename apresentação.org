@@ -1,0 +1,67 @@
+#+AUTHOR: Gonçalo Alegria
+#+TITLE: Apresentação da Aula
+#+EMAIL: g.alegria@gmail.com
+
+#+OPTIONS: reveal_center:t reveal_progress:t reveal_history:nil reveal_control:t
+#+OPTIONS: reveal_rolling_links:t reveal_keyboard:t reveal_overview:t num:nil
+#+OPTIONS: reveal_width:1200 reveal_height:800
+#+OPTIONS: toc:1
+#+REVEAL_MARGIN: 0.1
+#+REVEAL_MIN_SCALE: 0.5
+#+REVEAL_MAX_SCALE: 2.5
+#+REVEAL_TRANS: fade
+#+REVEAL_THEME: black
+#+REVEAL_HLEVEL: 2
+#+REVEAL_HEAD_PREAMBLE: <meta name="description" content="Org-Reveal Introduction.">
+#+REVEAL_POSTAMBLE: <p> Created by yjwen. </p>
+#+REVEAL_PLUGINS: (markdown notes)
+#+REVEAL_EXTRA_CSS: ./local.css
+
+* First There Was Mud
+
+** But This...
+
+#+ATTR_REVEAL: :frag frag-style
+
+was not what it seemed, it was but a shallow form o restitution:
+- This doesn't mead shit
+- And that doens't either..
+- But I shall not pass more for you
+|-------+-----+---+----------+------|
+| Might | And |   | Strenght |      |
+|-------+-----+---+----------+------|
+|       |     |   | Maskes   | Shit |
+|       |     |   |          |      |
+|-------+-----+---+----------+------|
+
+* Then There Was Dirt
+
+#+ATTR_REVEAL: :frag (grow shrink roll-in fade-out none) :frag_idx (4 3 2 1 -)
+   * I will grow.
+   * I will shrink.
+   * I rolled in.
+   * I will fade out.
+   * I don't fragment.
+
+* Then There Was Girth
+#+BEGIN_SRC emacs-lisp 
+(+ 1 2 3)
+'( "what" "are" "you")
+#+END_SRC
+
+* And Then There Where Magots
+** some 
+
+#+BEGIN_NOTES
+Oh good god What have You done!!!
+Mention stratasphericas heights
+#+END_NOTES
+#+BEGIN_SRC python
+
+def erme(something):
+    while a > 100
+    for i in range(2, 100)
+
+erme(100)
+
+#+END_SRC
