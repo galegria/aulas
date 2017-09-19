@@ -21,13 +21,18 @@ Passam pelos recursos ao nosso dispor e mostram-se abertos a uma universalidade.
 | Letivas     | * | Não Letivas             |
 |-------------+---+-------------------------|
 | + aulas     | * | + Tese                  |
-| + trabalhos | * | + Relatório de PRojecto |
+| + trabalhos | * | + Relatório de Projecto |
 | + exames    | * | + Relatório de Estágio  |
 
 * Recursos:
 Centro de documentação
 Bibliotecas
 
+* Investigação
 
-| inet-md | CESM |
-|         |      |
+Exitem dois centros de investigação associados ao departamento de Ciências Musicais.
+
+*** [[http://www.inetmd.pt/][Instituto de Etnomusicologia – Centro de Estudos em Música e Dança (INET-md)]]
+
+*** [[http://cesem.fcsh.unl.pt/][CESEM Centro de Estudos de Sociologia e Estética Musical]]
+                 
