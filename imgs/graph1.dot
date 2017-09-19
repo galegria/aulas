@@ -1,0 +1,8 @@
+digraph G { 
+node[shape=box];
+edge[len=3];
+composição -> tecnologia [dir="both"];   
+{rank=same; composição -> reflexão  [dir="both"];
+tecnologia -> reflexão [dir="both"];}
+
+}
