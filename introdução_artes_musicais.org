@@ -1,0 +1,33 @@
+#+AUTHOR: Gonçalo Alegria
+#+EMAIL: g.alegria@gmail
+#+TITLE: Apresentação do Mestrado de Artes Musicais.
+#+OPTIONS: toc:nil num:nil
+
+* Apresentação
+Os coordenadores do curso, *Isabel Maria Pires*, *João Soeiro Carvalho.* fazem uma exposição da faculdade e da sua importancia a nivel internacional.
+Passam pelos recursos ao nosso dispor e mostram-se abertos a uma universalidade. A sobretudo pela seguinte estrutura
+
+#+CAPTION: As vertentes do Mestrado
+ [[./imgs/graph1.png]]
+
+* As disciplinas:
+** Historia da Música: Mutações Tecnológicas nos Séculos XX e XXI
+** Música e Pensamento
+** Teoria e Método Das Ciências Musicais - Música e Tecnologia
+
+
+* Componentes:
+
+| Letivas     | * | Não Letivas             |
+|-------------+---+-------------------------|
+| + aulas     | * | + Tese                  |
+| + trabalhos | * | + Relatório de PRojecto |
+| + exames    | * | + Relatório de Estágio  |
+
+* Recursos:
+Centro de documentação
+Bibliotecas
+
+
+| inet-md | CESM |
+|         |      |
