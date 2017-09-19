@@ -1,3 +1,31 @@
-* Teoria e Método das Ciências Musicais
+#+AUTHOR: Gonçalo Alegria
+#+EMAIL: g.alegria@gmail
+#+TITLE: Teoria e Método das Ciências Musicais
+#+OPTIONS: toc:nil num:nil
+
+
+
+
+
+* Aula de dia <2017-09-18 Mon>
 
 Professor Manuel Pedro Ferreira
+
+John Sloboda <2017-10-12 Thu>
+
+Password Moodle: cantus
+
+
+** Alguma Bibliografia
+
+_The Craft of Research_ - Wayne C. Booth
+
+_Music and Knowledge, A performers prespective_ - Per Dahl
+
+_Musicologia Série Dialogos Com o Som_ (ensaios)
+
+
+Rui (?) dará a aula de <2017-09-25 Mon>
+
+Luisa Rocha - Iconografia Musical, dará aula no dia <2017-10-02 Mon>
+
