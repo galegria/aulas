@@ -1,0 +1,292 @@
+
+#+TITLE: História da Música 
+#+SUBTITLE: Mutações tecnológicas da música e do som nos séculos XX e XXI: estéticas, técnicas, invensões, conceitos, ideias.
+#+OPTIONS: toc:nil
+
+
+<2017-09-28 Thu>
+
+* Coisas práticas 
+PASSWORD MOODLE 
+
+#+BEGIN_SRC bash  
+MAMHM_2017
+#+END_SRC
+
+
+A vida antigamente er asilenciosa: RUSSOLO
+
+A Hora de atendimento 14h00 - 16h00 Hora de atendimento 5as Gabinete 407, andar 4 lado direito
+
+Duas provas escritas
+
+Um paper
+
+usar as cadeiras de forma estratégica, usem coias que se possam reaproveitar.
+
+
+* Datas de provas escritas: 
+
+** TODO primeira prova de HM <2017-11-16 Thu>
+
+** TODO segunda prova de HM <2017-12-14 Thu>
+
+** TODO paper entrega dia <2017-11-30 Thu>
+
+
+* PRINCIPIO
+contexto das revoluões artisticas XIX
+COntexto ideologico <-> 1920, 1930
+Depois voltar a trás para façlar de instrumentos
+
+
+instrumentos até à segunda metade do sec XX
+
+1950 Rock 
+
+* SEC XIX
+
+1848 - marcado pelo desnevolvimento da rev. industrial, transportes facilitam o contacto entre populações diferentes, iníco do exodo rutal. Acumulaçõa de pessoas nas cidades sem que estas tenham como perceberem.
+
+diminuição da produção agricula. diminuição da alimentação.
+
+em meados do sec situação social explosiva, decada de 30 instauração ad monarquia parlamentar, belgica e grecia independentes e os polacos a fazerem o mesmo dos russos.
+
+não haveriam representantoes do povo/ sociedade fracturada, burguesia fabril e o povo explorado.
+
+em 45 a situação agrava-se:
+
+45 e 46 más colheitas. crise agricula FLandres e Irlanda faz subir os preços, ao subirem as pessoas nas cidades perdem condiçõe spara adquirir alimentos. problemas sociais nautaralmente
+
+surgem revoltas por parte dos camponeses, por outro lado pelos trabalhadores nas cidades sem poder de compra.
+
+
+Poucas pessoas no campo a produzir, trabalhadores sem poder de compra. Isto vai criar um conjunto de 1848 lideres, que irão trazer imensas mudanças artisticas sociais e politicas
+
+
+A PRIMAVERA DOS POVOS ou as REVOLUÇÕES LIBERAIS
+
+DEMOCRATICO e NACIONALISTA. 
+
+
+----------
+** Revoluções
+
+24 de fev 1848 em França
+18 de Março 1848 na Alemanha (confederação de estados e paises fgermânicos)
+
+2 de Junho Checos reivindicam autonomia
+Itália começa em 1848 até 1849 /resorgimento/
+procuram um unificação da Itália. só se conclui em 1871 (roma e veneza ficam de fora atéé essa data) 
+https://pt.wikipedia.org/wiki/Giuseppe_Garibaldi
+** Ideologia 
+
+*Nacionalismo*, defender a autodeterminação dos vários povos, nas artes, nova música nacionalista.
+*Liberalismo* defende a liberdade individual, em algumas regiõe sum estado constitucional, participação do povo 
+
+*Positivismo* Conte, corrente autoritária, opões ao racionalismo e ao liberalismo, opões-se 
+
+*evolucionismo* 
+
+
+*Idealismo* 
+
+*Socialismo Marxista* 
+
+*Materialismo* 
+
+
+** Movimentos artisticos
+
+Estamos a sair do romantismo e a entrar no Neo-classicicismo e no expressionismo (na música)
+NAs aartes visuais o realismo, movimento artistico e literário que surge no sec XIX em frança 1830-70
+
+*** a veracidade do realimos é uma das máximas
+
+descrevem a realidade, o acto de fazer arte serve para representar a realidade o mais fielmente possivel. 
+Os personagens com os seus traços de caracter as narrativas são lentas, tudo é detalhado. Nos textos literários 
+denúncias de condiçõies. Determinismo causal. Linguagem sem floreados. Não há grandes romatnismos.
+
+Jean Baptiste Corot
+Gustave Courbet (Un enterrement á Omans, 1849-50)
+Honor´ºe Daumier
+Jean-François Millet(L'angelus)
+Henri Fantin-Latour
+
+
+*** Impressionismo 1874-86 (?)
+
+Surge em França um estilo internacional, as coisas atravessam os paises.
+
+Oito expos públicas, organizadas por pintores impressionistas, vai romper com academismo e com a arte mais romantica
+
+tendencia para representar na tela sensações, impressões, coisas em movimento, 
+
+*Renoir*
+
+
+*** Simbolismo 1870-1900
+
+desenvolve-se na literatura nas artes plásticas e no teatro
+oposição ao naturalismo e no realismo
+
+Hodler e Munch, temas misticos imaginários e subjectiovos
+a cada um os sues próprios simbolos
+não s~soa considerads as questões sociais
+descartam a razão, tudo baseado na intuição e gestos de momento.
+aliteração e assonancia
+
+Gaugin, viviam em monmartre, viviam muito em conjunto 
+
+
+** Música
+
+Debussy /poema sinfónico/  [[https://en.wikipedia.org/wiki/La_mer_(Debussy)][La Mer]]
+Bartok impressionismo e Nacionalismo
+Enrique Granados dança espanhola numero 5 [[https://en.wikipedia.org/wiki/Enrique_Granados][Henrique Granados]]
+
+O nacionalismo começa no fim do sec XIX avança pelo XX a dentro
+tem de ter partes tradicionais na música, 
+
+os músicos vão adotar elementos nacionailstas na sua obra.
+
+Charles IVEs e COpland
+
+Viana da Mota
+
+
+Grupos dos Cinco Russia
+acaba por ter uma influencia foret em termos de estilos e influencia Prokofiev, Stravinsku e o Shostakovich
+
+
+
+
+
+Dvorak, Brukner, Blinka
+
+** Surge em França o Grupo dos seis:
+Oriek, gudorri, francis pulank
+surge em Monparnasse, um café onde estes tinham liberdade para discutir o que estavama a fazer
+influenciado pelo Satie e pelo Jean Cocteau
+
+
+** No caso da música expressionista: 
+
+Pantonalidade, ligados À segunda escola de Viena, austriacos e alemães na sua maioria.
+Pós-Romantica, Mahler, 1909 adagio 10ª Sinfonia. 
+Começamos a sair do tonalismo, as coisas já não coerentes com a música romantica/romantismo
+
+Berg [[https://en.wikipedia.org/wiki/Violin_Concerto_(Berg)][Concerto para Violino]] BACH
+
+1898 Schonberg Note Transfigurada
+Verklärt Nacht opus 4 Schönberg 
+
+1929
+
+Opus 33a 2s peças para piano [[https://en.wikipedia.org/wiki/Zwei_Klavierst%25C3%25BCcke_(Schoenberg)][Opus 33]]
+
+
+* Instrumentos 
+
+Clavecin Èlectrique - 1759 -1775 Jean Baptiste Delaborde
+
+dede que começou a electricidade a ser estudada se teria ter tentado começar a estudar formas de usar
+
+é preciso espwerar pela Corrente Alterna 
+
+
+tentativa de eletrificar um teclado
+
+ao acionar um tecla é inudzida uma corrente electrica que vai interferir nas campainhsa e ela gera uma nota.
+
+
+
+Controlar um fluxo electrico a partir de um sistema electro magnético
+
+
+Adams-Bagnall Company Outdoor Arc Lamps (~1870)
+
+
+Telégrafo Musical 1876 tem um oscilador em cada tecla. Elisha Gray [[http://120years.net/the-musical-telegraphelisha-greyusa1876/][Musica Telegraph]]
+
+vai conseguir construir osciladores electromagnéticos e os primeiors sistemas de controle de frenquencia
+
+
+Amplificador. os primeiros sistemas de amplificação sã ocampanulas. 
+
+
+*Singing Arc* (1899) William du Bois Duddell 
+se pode controlar a freqencia electrica pode controlar o som com uma corrente electrica que passa entre os polos.
+
+Electromechanical Piano 1867 Matthias Hipp
+
+
+Dynamaphone 1897 Thaddeaus Cahill - Gerador com 8 alternadores
+
+a diferença é a escala
+
+Telharmonium , 145 geradores, 
+
+
+
+Helmholtz Sound Synthesiser, 1905
+precisa de dois tipos de ressoadores e ressoadores electromagneticos
+
+
+Choralcello Electric Organ Melvin Severy e George Sincalir
+
+Instrumento hibrido, as cordas são vibratórias, 
+
+
+A válvula Triádica: Lee de  Forest: Audion valve: 1906
+
+
+Audion Piano - Lee de Forest. USA, 1915 
+
+usa uma válvula por oitava. afreq. é controlada por um conjunto de chaves pelo teclado
+
+não é completamente polifónico, os speaker podiam ser colocados em sítios diferentes que nã oacopulados ao isntrumneto.
+
+
+Optophonic Piano Validimir Baranoff Rossiné
+
+discos pintados 
+
+
+Jörg Mager
+
+https://books.google.pt/books/about/Eine_neue_Epoche_der_Musik_durch_Radio.html?id=g3FQHAAACAAJ&redir_esc=y
+
+Electrophon (1921)
+Partiturophon (1930)
+Klaviatursphäraphon(1928)
+Sphäraphon(1924) inclui algum tipo de filtros
+
+
+*Pianorad* - 1926 Hugo Gernsback e Cly Fichn usa 25 osciladores tem vinte e cinco teclas
+
+
+
+*Cellulophone* - 1927 Pierre Touon e Krug Bass - França
+
+a freqencia das ondas é controlada por discos de vidro
+o som é gerado pela rotação dos discos
+
+desenolvem-se muitos discos fotoelectricos
+
+Theremin 1917 
+o roginal funcionava com válvulas, monofónico, dois campos electromágnéticos.
+
+as antenas do thermin
+
+
+Onde Martenot, Maurice Martenot é radio-telegrafista
+
+vem a resolver os problemas inerentes ao theremin, em 1921 patenteia 
+
+Olivier Messian compõe para ondes-martenot. 
+
+
+o ondes-martenot é monofónioc mas pode produzir quase acordes através da ressonancia.
+
+
