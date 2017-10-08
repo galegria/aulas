@@ -1,0 +1,18 @@
+#+TITLE Bibliografia Seminário Artistico 1
+
+* Bibliografia Geral [1/7]
+
+
+- [X] DEAN, Roger T. (2009) The Oxford Handbook Of Computer Music, NY, Oxford University Press
+
+- [ ] BOULANGER, R. C. (2000) Csound Book. Cambridge. MIT Press.
+
+- [ ] BREGMAN, A. S. (1990) Auditory Scene Analysis, Cambridge. MIT Press.
+
+- [ ] DODGE, C. JERSE, T. A. (1985) Computer music, synthesis, Composition, and Performance. NY . Schirmer Books.
+
+- [ ] MANNING, P. (2004) Electronic and computer music. NY. Oxford U. Press.
+
+- [ ] McADAMS, S., BIGAND, E. (1994) Penser les sons, psychologie cognitive de l’audition, Paris. PUF.
+
+- [ ] ROADS, C. (1996) The Computer Music Tutorial. Cambridge

@@ -1,0 +1,360 @@
+#+TITLE: SEMINÁRIO ARTÍSTICO I
+
+
+
+VINCENT DEBUT
+vincentdebut@fcsh.unl.pt
+
+<2017-09-27 Wed>
+
+** INTRO 
+
+Módulo de Física do Som, Sintese Sonora. O aspecto físico do som Síntese sonora
+
+Fazer a análise para poder sintetizar
+
+Vincent vem da física teórica, electromecanica magnetismo. 
+
+Corda Friccionada, Travão do carro, 
+
+** 1. Fundamentais de Vibração e acústica
+  a. o que´a acústica.
+  b. Base de Vibrações
+  c. Base de acústica.
+    i. Movimento acústico
+    ii. Caracterização: amplitude, fernquncia.
+    iii. Intensidade. E potência acústica.
+
+** 2. Tec, de analise de sons musicais 
+  a. Representações gráficas
+  b. Análise de Fourier
+  
+** 3. Acústica de Auditorios 
+  a. caracterização da acústica de umas sala
+  b. Isolamento acústico
+  
+** 4. Percepção dos sons musicais
+  a. descriição do sitema auditivo
+  b. Efeitos psicoacústicos
+  	
+** Bibliografia
+
+Luis Henrique, Acústica Musical
+Heller, E. J. Why you Hear: An experimental Approach to sound, Music, and PSychoacustics, POrinceton University Presss, 2012
+Pierce, J. R. The Science of Musical Sound, Scientific American Books efition, 1983
+Rossing, T. D. The Science of Sound Addison-Weslkey 1990.
+MArshall, L. Architectural acoustics, Elsevier Academic Press  
+  
+** O que é a acústica?
+Acústica = Ciência do Som
+  
+** Source-path-receiver
+
+Fonte Sonora <--> Meio Transmissor <--> Receptor
+ 
+   
+     
+    --- Exame, dois. 
+       
+         
+Acústica é a termomecânica dos meios continuos.  
+Termo = temperatura
+Mecanica = esforços - Newton
+Meios = Lua/ não há ar
+Continuos = não há interrupção
+ 
+O som é associado a variações de pressão. Quando há avariações de pressão há variações de temperatura. Chama-se um frigorifico acústico
+ 
+Noção de força, *PRESSÃO*
+   
+Podemos de dizer que os som é uma vibraçõa e que precisa de um meio continuo.
+   
+** SONS AUDIVEIS OU NÃO AUDIVEIS 
+São os mesmos.
+    
+Noção de frequencia: 
+Os sons que nã ose ouver saõ os que não se ouvem são os muito lentos.
+Os ultrasons, uma vibração muito rápida, 
+    
+MEDICINA COM ULTRASONS | sangue, porosidade, 
+    
+ \(20Hz (...) 20000Hz\)
+    
+*SOURCE <-> PATH <-> RECEIVER*
+    
+O receptor são os elementos que tem um sensor auditivo que sabe detectar variações de pressão
+
+A ORELHA E O MICROFONE SÂO A MESMA COISA são aparelhos que percebem variações de pressão.
+     
+Cada vez que uma partícula colide vai haver uma variação de pressão. 
+
+A *PRESSÃO ATMOSFÉRICA* é uma média das colisões de estas particulas
+    
+   \( 100000 Pa\) 
+    
+ As particulas vão colidindo na ordem de 10^9 por segundo, quando vão umas contra as outras em linha recta depois vão para a direção. 
+    
+ Quando se está a falar perturba-se aquelas colisões e vamos criar variações de pressão, há uma sobre pressão .
+    
+    
+** FONTES SONORAS
+    
+*** Vibração Mecânica - uma membrana, um som percutido, numa estrutura e produz som
+     
+*** Escoamento de um Fluido - Um assobio, o ar condicionado
+     
+*** Transferência de Calor. 
+
+RIJKE'S TUBE:
+   
+[termo acústica]
+    
+** Meio Transmissor: precisa de ter partículas e de ter massa e ser elástico
+Um sistema que pode ser deformado e que pode voltar à sua forma inicial.
+    
+    
+se o meio não é elácticos não pode haver som.
+    
+** Receptor 
+Dispositivo sensivel à pressão.
+  
+  
+** EXEMPLOS
+ 
+    
+    
+    
+Um prato é percutido o excesso de energia é transmitido no ar que o rodeia, construindo variações de pressão no ar.
+
+O Helmolz iria gostar de ter uma câmera de alta velocidade.
+
+As frequências que estamos a ouvir são as que estamos a produzir.
+
+
+*** Vibração Mecânica deslocamento de um ponto sólido
+***  Vibração Acústica deslocamento de particulas do Fluido
+
+Sensação Auditiva. 
+
+Vibrações mecanicas que vem de uma estrutura e virações que vem de um fluido e finalmente acustica é a ciencia do estudo...
+
+
+Uma fonte impõe um movimento vibratório a algumas partículas de um meio.
+Que de repente são animadas de uma velocidade, modifucando assim localemte a pressão da zona.
+
+Consoante as características do movimento o resultado pode ser (ou não) percepcionado com Sensação auditiva.
+
+Deslocamento acelerar é uma variaçõ de velocidade é dividir a a deslocação pelo tempo.- 
+
+
+Deslocamento/ Velocidade/ Aceleração. 
+
+
+* NEWTON: 
+
+    
+Força
+    
+2ª LEI DA DINÂMICA: 
+   
+Quando temos um objecto que está a avançar, está a avançar porque há forças que estão a ser aplicadas.
+    
+a Variação de velocidade é aceleração
+
+\begin{equation} 
+F=ma
+\end{equation}  
+   
+força = massa X aceleração 
+Variação de velocidade é aceleração.
+   
+            
+Qual é a força? é a pressão.
+
+
+[ter em conta a terminologia]
+
+ARISTOTELES já tinha falado sobre partículas e já tinha formulado isso
+
+PITÁGORAS (570-497 ac)
+Mais a filosofia que e a experiência
+Trabalhos sobre as cordas/ relacionar a altura de um som ao comprimento da corda.
+
+/MONOCÓRDIO/
+Duas pontes e uma ponte móvel. No meio fazia a oitava.
+Sons naturais, oitava, quinta terceira, quarta. 
+Série dos harmónicos os intervalos que tinham consonância.
+
+
+
+
+MERSENNE (1588-1648)
+
+ /Harmonie Universelle/ conseguiu introduzir ferramentas e metodologias. Equações diferenciais parciais.
+
+
+
+ 
+CHLADINI(1756-1827)
+ Primeiro a demonstrar o que é uma vibração. "Quando um copo vibra, vibra assim"
+
+     PLACAS FIGURAS DE CHLADINI    
+
+
+
+FOURIER (1768-1830) 
+Estava a trabalhar sobre campos de calor. Desenvolve uma ferramenta, permite ver os sons musicais em componentes fundamentais. 
+
+
+HELMOLTZ (1821-1894)
+Ressoadores, a percepção da altura. A altura do som não é a frequência
+
+
+
+RAYLEIGH (1842-1919)
+
+       THEORY OF SOUND
+
+
+RAMMAN trabalho sobre a
+
+
+* FUNDAMENTAIS DE VIBRAÇÂO E ACÚSTICA
+ O QUE É uma vibração, o que é a fase de um som
+
+  1. uma onda sonora
+
+O som é um movimento vibratorio das particulas do ar mas antes há o movimento de uma estrutura. 
+
+
+  Um movimento vibratório é um movimento de vai vem. POSIÇÂO DE EQUILIRIO
+  As particulas osciliam o vai vem mas fazem em relação a um ponto de referencio, a POSIçAO DE EQUILIBRIO
+  
+        
+              
+                    
+  AS frequencias são variações de pressão ao longo do tempo em relação a um ponto de referencia de equilibrio, pressões positivas e pressoãs negativas
+  
+         
+                
+                       
+                              
+                                     
+  REPRESENTAÇÂO GRAFICA CONSISTE EM Descrever de maneira gráfica o movimento de um ponto ao longo do tempo.
+
+#+BEGIN_SRC python
+import matplotlib.pyplot as plt
+import numpy as np
+
+t = np.arange(0.0, 2.0, 0.01)
+s = np.sin(2*np.pi*t)
+plt.plot(t, s)
+
+plt.xlabel('time (s)')
+plt.ylabel('pressão (pa)')
+plt.title('About as simple as it gets, folks')
+plt.grid(True)
+plt.savefig("imgs/test.png");
+return "imgs/test.png"
+
+
+#+END_SRC
+
+#+RESULTS:
+: None
+
+  
+  Pressão
+
+  |       
+  |              
+  |                     
+  |------------t(s)       
+  
+  
+MOVIMENTO PERIÓDICO
+  
+Um som puro é um som dque só tem um frequencia
+Movimento periódico , a natureza é baseada na periodicidade. 
+ 
+Tudo funciona da mesma maneira. E a música funciona adssim 
+ 
+A primeira coisa é caracterizar a periodiciddade. Esta é o tempo que leva a fazer um ciclo. A partir dai dá apoara saber a freqeuncia. amaplitude é a a variação em relação ao referencial
+ 
+ 
+O movimento de uma sinusóide é um movimento harmónico. 
+Os sons puros quando tem uma representação temporal
+  
+Um som complexo é um conjunto de freqeuncias, os sons musicais sã osons conmplexos
+
+A análise d efourier é uma ferramenta para perceber as freqeuncias 
+
+
+* O PERIODO é asociado a o tempo que é preciso para repetir o movimento.
+
+A extensão do movimento chama-se amplitude.
+
+
+AMPLITUDE = movimento máximo ao torno da posição de euqiçlibrio
+PERIODO = intervalo de tempo que leva a efectuar um ciclo.
+
+
+Se não há periodicidade o cerbero nã oconsegue assoicar a uma altura do som
+
+
+AMPLITUDE REPRESENTA UMA EXTENSÂO RELATIVAMENTE A UM VALOR DE REFERENCIA.
+
+A AMPLITUDE DE UMA VIBRAÇÂO CORRESPONDE A UMA VARIAÇÃO MÀXIMA AO TORNO DO VALOR DE EQUILIBRIO. em geral a maplitudde de uma vibração varia xcom o tempo devido a perdas de energia.
+
+
+O inicio do som, o ataque dá imensas informações ao cérbero para reconhecer. assinatura do instrumento.
+
+
+Um som musical deve ter vida. Pequenas variações dentro faz a música.
+
+
+Orelhas de ouro.
+
+Explicação da mecanica do ouvido. 
+
+O movimento de uma corda friccionada pode ser definido por um gráfico.
+
+STICK SLIP
+
+
+
+Pressão acústica de um violencelo: 
+A periodicidade não é certa, os sons musicais são quase periódicos, (tem pequenas variações dentro do seu sistema complexo..)
+
+A noção de periodo é associada à freqeuncia. A frequência é o numero de ciclos durante um segundo.  
+O periodo é o tempo que demora a fazer a frequencia. A frequência 
+  
+
+\begin{equation}
+f = 1/t
+\end{equation}
+  O periodo a unida é o segundo
+  A freqeuncia é o hertz
+
+
+
+  1. determinar o periodo
+  2. sabemos a que a frequência: $$1/t$$
+
+
+  -----
+
+  Noções de vibração
+  
+A sensação de altura que nos procura esse som é determinada principlamente pela sua frequência. 
+  
+ *Ultra Som* > 200000Hz
+ *Infra Som* < 20hz
+ 
+ Graves = frequências baixas
+ Agudas = frequências altas
+
+*****
+RISSET, grande investigador das teorias das particulas e compostitior
+
+SHEPPARD

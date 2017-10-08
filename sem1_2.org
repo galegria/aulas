@@ -1,0 +1,216 @@
+﻿#+TITLE: ACUSTICA MUSICAL 
+
+
+<2017-10-03 Tue>
+
+* SOFTWARE
+
+** PRAAT - software de analise dos sinais sonoros associado para a voz, epecialistas fala, muito usada
+ especialmenbte os formants. 
+
+ O PRAAT tem a possibilidade de 
+
+ PRAAT OBJECTS os sons
+
+ Compressão.
+
+
+ VOZ - Emissor
+
+ Source/Filter
+
+ TRacto Vocal ---- Tubo Cilindrico
+
+ 21 Cilindros de secção diferenbtes para reprodução das vocais.
+ a e i o u
+
+ 1ª Formant, 2ª Formante
+
+ as analise vocal passa pela analise de formantes.
+
+
+ *Flanagan* Bell Labs, o modelo Source Filter é dele
+
+
+** GNU OCTAVE
+
+
+* Noções
+
+Temos sons que são totalmente peridoicos e sons que não são peridodicos
+
+O facto de ser peridodico ou não peridoico tem uma cosnequencia no dominiosdas frequencias.
+Um hharmnonuicio é um multiplo inteiro de ujma fundamental
+
+130/100 = 1.3
+
+
+Quando há um som que estamos a ouvir dentro da peridoicade temporal implica hamonicidade das freqeuncias
+ e isso implica noção de altura,m sem isso não há altura definida.
+
+Há alguma periodicade quando se repara numa equidistancia.
+
+Quando. Ruido Branco tem a mesma densidade de energia ao longo das frequencias.
+
+
+Os primeiros modelos de sintese vocal foram feitos com ruido branco e filtros de formantes.
+
+ver formantes vocais.
+
+* MOVIMENTO PERIODICO: a FASE
+
+A fase é uma noção de atraso, faz sentido apenas quando temos uma referencia
+apenas qnd comparamos dois sons (ou mais)
+
+dentro do periodo a fase mede quand ocomeça o som
+
+O CEREBERO HUMANO NÃO É SENSIVEL à FASE
+
+A fase é importamente quando queremos reproduzir o fenómeno observado.
+
+A fase é importante par afaser análise e resintese.
+O ser humano não é sensivel à fase. É importtante na gravação.
+
+Quanddo se faz uma inversão de fase anula-se os sons iguais.
+
+----
+
+A soma da interferencia de onda faz de forma aditiva
+
+
+* Movimento Harmónico 
+** Amplitude
+** Frequencia
+** Fase
+
+x(t) = A0 sin(2pi ft + fase)
+
+
+
+queres fazer uma sinoside precisas de frequencioa, ampliturde e aduração
+
+t=vector(tabela) = [0 0.001 0.002 0.003 ... 2];
+sound= A 
+sin(2Pi*480 * t);
+
+
+movimento transitorio temporal e acada instante vai calcular  
+
+Chirp é importaqnte porque permite medir todas as freqencias.
+
+Frequencia de Amostragem
+
+ADSR permite fazer variar a amplitude 
+
+o som puro é o atomo do som
+
+*Fourier* qualquer sinal periodico pode ser visto como um conjunto de osc e relação de freq harmonicas
+
+
+
+
+O peridodo no chirp está a aumentar, é um som puro proque aqui a cada period tem uma unica freqeuncia 
+
+a noção de análise é sempre atrás da sintese
+
+
+Análise de Fourier
+
+Dominio Temporal <-> Dominio Freqencial
+
+- é possivel analisar o conteudo freqeuncial de um sinal atraves da analiuse de fourier, faz uma projecção.
+o fourier projecta os sons noutro mundo como exiso de referencias tem todos os sons puros.
+
+ao usar a a nalise de fourier passamos da representação temporal do sinal a sua repesentação freqeuncial
+
+
+A A.F. permite saber quais são as freqeuncias em que o sinal tem ernergia..
+
+* Representação temporal
+
+- a representação temporal permite percer qnd começa e quando acaba, com a amplitude perceber a sua intensidade.
+
+- é particularmente bem adequada parta :
+  - analisar as caract Dinâmicas
+  - detectar a periodicidade. 
+
+Na analise de sinal só interessa saber as frequências.
+
+Um sinal não estacionário(?)
+
+* Representação freqencial
+- a representação frequnecial evidencia as freq em que o nsinal contá energia
+- é adequada para 
+  - analisar a amplitude de cada frequ no sinal
+  - descrever, em parte o timbre do som.
+
+TIMBRE caract subj eqe nos permite diferenciar dois sons: estrutura e intensidade
+
+
+é preciso saber os dois dominios para perceber o som.
+para calc uma representação temporal é preciso os dois freq e temp
+
+
+é impossivel saber os fenómenos temporais a apartir de uma análise freq 
+---- praticar as coisas ditas e enfrentar os problemas. 
+
+Analiuse de Fourire 
+
+- Tem que se diferenciar 
+
+  - O teorema de fourier que se aplica a sinais epriódicos e que resulta no desnvolvimento de uma serie de fourier com componentes freqencuias, afastads umas das outras
+
+espctro discreto freqeunicas harmónicas
+
+
+a trasnormação de fourier que é a generealização do teoremade fourier a sinais qe não são periodicos para os quais as componentes são infinitimante próximas.
+
+
+Transformação de Fourier
+FFT algoritmo usado para calcular os espectros.
+
+* Decomposicção de Fourier
+
+- o teorema de fourier cosiste em decompor um sinal peridodico numa soma de componentes com freq multiplas de uma fundamental
+
+
+olhar para as representações de um som para perceber, freq e temp
+
+
+
+* Sinal quadrado Analise d efourier
+
+
+oscilações de Gibbs
+
+o sinal quadrado tem uma descontinuidade
+
+[[http://www.falstad.com/fourier/][*FOURIER SERIES APPLET*]] 
+
+* sinal dente de serra 
+
+
+som complexo n-periodico.
+
+
+é possível sintetizar uma função peridocia a partir da sua série de Fourier!
+
+na teoria a série  de fourier contém umn numero infinito de componentes, na pra´tica um numero finitpo de componentes é suficiente para reproduzir
+
+
+
+
+
+SINTESE HARMONICA
+
+
+um processo estocastico
+
+
+
+
+
+
+
+
+ 
